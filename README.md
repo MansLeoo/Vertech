@@ -5,15 +5,15 @@
 ![Slide 3](Blue%20White%20Modern%20Company%20Profile%20Presentation-3.png)
 ![Slide 4](Blue%20White%20Modern%20Company%20Profile%20Presentation-4.png)
 
-<img src="BoutChaud.gif" width="300"/>
+<img src="BoutChaud.gif" align="center"/>
 
 ![Slide 5](Blue%20White%20Modern%20Company%20Profile%20Presentation-5.png)
 
-<img src="BoutFroid.gif" width="300"/>
+<img src="BoutFroid.gif" align="center"/>
 
 ![Slide 6](Blue%20White%20Modern%20Company%20Profile%20Presentation-6.png)
 
-<img src="Information.gif" width="300"/>
+<img src="Information.gif" align="center"/>
 
 ![Slide 7](Blue%20White%20Modern%20Company%20Profile%20Presentation-7.png)
 ![Slide 8](Blue%20White%20Modern%20Company%20Profile%20Presentation-8.png)
