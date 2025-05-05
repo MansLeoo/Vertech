@@ -8,4 +8,5 @@
 ![Slide 6](Blue%20White%20Modern%20Company%20Profile%20Presentation-6.png)
 ![Slide 7](Blue%20White%20Modern%20Company%20Profile%20Presentation-7.png)
 ![Slide 8](Blue%20White%20Modern%20Company%20Profile%20Presentation-8.png)
+[Liens Vers la vidéo](https://youtu.be/OMZlc-c2gLk)
 ![Slide 9](Blue%20White%20Modern%20Company%20Profile%20Presentation-9.png)
