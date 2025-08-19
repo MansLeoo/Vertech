@@ -24,6 +24,6 @@
 ![Slide 7](img/Blue%20White%20Modern%20Company%20Profile%20Presentation-7.png)
 ![Slide 8](img/Blue%20White%20Modern%20Company%20Profile%20Presentation-8.png)
 
-###       📽️ [Voir la vidéo de présentation](https://youtu.be/OMZlc-c2gLk)
+###       📽️ [Click here to watch the promotional video](https://youtu.be/OMZlc-c2gLk)
 
 ![Slide 9](img/Blue%20White%20Modern%20Company%20Profile%20Presentation-9.png)
